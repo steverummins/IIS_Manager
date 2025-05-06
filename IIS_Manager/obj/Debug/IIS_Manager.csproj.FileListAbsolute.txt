@@ -1,0 +1,12 @@
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\IIS_Manager.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\IIS_Manager.pdb
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\itextsharp.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\obj\Debug\IIS_Manager.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\obj\Debug\IIS_Manager.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\obj\Debug\IIS_Manager.csproj.CopyComplete
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\obj\Debug\IIS_Manager.dll
+C:\Users\steve\source\repos\IIS_Manager\IIS_Manager\obj\Debug\IIS_Manager.pdb
